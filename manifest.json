@@ -1,0 +1,9 @@
+{
+    "manifest_version" : 3,
+    "name" : "Spartan Helper",
+    "description" : "The Helper For Pros",
+    "version" : "1.2",
+    "chrome_url_overrides" : { "newtab" : "index.html" },
+    "permissions" : ["tabs"],
+    "icons" : { "128" : "./img/icon.png" }
+}
